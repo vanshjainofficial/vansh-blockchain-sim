@@ -73,7 +73,7 @@ class CreateTransaction extends Component {
                         <input type="text" className="form-control" id="recv_addr" onChange={this.onchangeInput}/>
                     </div>
                     <div className="form-group">
-                        <label className="text-dark" htmlFor="amount">Amount of Kryptos to be transferred</label>
+                        <label className="text-dark" htmlFor="amount">Amount of crypto to be transferred</label>
                         <input type="text" className="form-control" id="amount" onChange={this.onchangeInput}/>
                     </div>
                     <button type="submit" className="btn btn-primary" onClick={this.onsubmitForm}>Create Transaction</button>
