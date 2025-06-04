@@ -31,6 +31,3 @@ A minimal blockchain implementation in JavaScript using the `elliptic` npm packa
 - [crypto-js](https://www.npmjs.com/package/crypto-js)
 
 ---
-
-## 📁 Project Structure
-
