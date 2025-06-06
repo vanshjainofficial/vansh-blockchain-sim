@@ -11,7 +11,7 @@ A minimal blockchain implementation in JavaScript using the `elliptic` npm packa
 - Uses the `secp256k1` curve via the `elliptic` library.
 
 ### 💸 Transaction Creation
-- Users can send **Cryptos** (simulated currency) to another public key (address).
+- Users can send **Crypto** (simulated currency) to another public key (address).
 - Each transaction contains: sender address, recipient address, and amount.
 
 ### ✍️ Digital Signatures
